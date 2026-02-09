@@ -9,7 +9,6 @@
 | 프레임워크 | Next.js 16 (App Router) |
 | 언어 | TypeScript |
 | 스타일링 | Tailwind CSS v4 |
-| 번들러 | Turbopack |
 
 ## 시작하기
 
@@ -24,7 +23,7 @@
 # 의존성 설치
 npm install
 
-# 개발 서버 시작 (localhost:3000)
+# 개발 서버 시작 (localhost:3010)
 npm run dev
 
 # 프로덕션 빌드
